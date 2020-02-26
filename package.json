@@ -1,0 +1,38 @@
+{
+    "name": "tarungfilm",
+    "version": "1.0.0",
+    "description": "Latihan Colt Steele dengan html dan struktur terpisah. Latihan untuk mengerjakan soal Udemy Course dari Colt Steele dan Stephen Grider https://www.udemy.com/course/javascript-beginners-complete-tutorial/",
+    "main": "app.js",
+    "scripts": {
+        "dev": "parcel -p 4200 src/index.html",
+        "build": "parcel build src/index.html --no-source-maps",
+        "deploygithub": "parcel build src/index.html --no-source-maps --public-url /tarung-film/"
+    },
+    "author": "Gulajava",
+    "license": "MIT",
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.8.4",
+        "@babel/plugin-transform-runtime": "^7.8.3",
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb": "^18.0.1",
+        "eslint-config-node": "^4.0.0",
+        "eslint-config-prettier": "^6.10.0",
+        "eslint-plugin-import": "^2.20.1",
+        "eslint-plugin-jsx-a11y": "^6.2.3",
+        "eslint-plugin-node": "^11.0.0",
+        "eslint-plugin-prettier": "^3.1.2",
+        "eslint-plugin-react": "^7.18.3",
+        "eslint-plugin-react-hooks": "^2.4.0",
+        "parcel-bundler": "^1.12.4",
+        "prettier": "^1.19.1"
+    },
+    "dependencies": {
+        "@babel/runtime": "^7.8.4",
+        "@fortawesome/fontawesome-free": "^5.12.1",
+        "axios": "^0.19.2",
+        "bulma": "^0.8.0"
+    }
+}
