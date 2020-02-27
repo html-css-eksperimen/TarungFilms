@@ -4,7 +4,7 @@ Aplikasi sederhana untuk menampilkan perbandingan film dari OMDB API.
 
 ## Demo aplikasi
 
-Tautan untuk melihat demo sederhana dari penggunaan gauge chart ini yaitu [Demo Tarung film](https://html-css-eksperimen.github.io/tarung-film/).
+Tautan untuk melihat demo sederhana dari penggunaan aplikasi web ini yaitu [Demo Tarung film](https://html-css-eksperimen.github.io/tarung-film/).
 
 ## Cara Menjalankan Demo
 
