@@ -32,7 +32,7 @@
     "dependencies": {
         "@babel/runtime": "^7.8.4",
         "@fortawesome/fontawesome-free": "^5.12.1",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "bulma": "^0.8.0"
     }
 }
